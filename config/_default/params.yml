@@ -30,9 +30,9 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
+author: SYS-Jiang
 email: xxx@example.com
-description: "少女祈祷中..."
+description: "欢迎来到我的个人博客"
 # subtitle: "少女祈祷中..."
 subtitle:
   typing:
@@ -106,7 +106,7 @@ copyright:
 #   All website licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></div>
 
 footer:
-  since: 2020 # 2020-current year
+  since: 2026 # 2026-current year
   powered: true
   count: true
   busuanzi: true

@@ -1,9 +1,9 @@
-baseURL = 'https://example.org/'
-languageCode = 'en'
-title = 'My New Hugo Site'
+baseURL = 'https://sys-jiang.github.io/'
+languageCode = 'zh-CN'
+title = "SYS-Jiang's Blog"
 theme = 'hugo-theme-reimu'
 
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'zh-CN'
 [languages]
 [languages.en]
 languageName = 'English'
