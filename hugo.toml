@@ -1,6 +1,6 @@
 baseURL = 'https://sys-jiang.github.io/'
 languageCode = 'zh-CN'
-title = "SYS-Jiang's Blog"
+title = "Welcome to my world"
 theme = 'hugo-theme-reimu'
 
 defaultContentLanguage = 'zh-CN'
