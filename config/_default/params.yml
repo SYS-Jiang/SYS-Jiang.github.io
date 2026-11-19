@@ -30,14 +30,16 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: SYS-Jiang
-email: xxx@example.com
-description: "欢迎来到我的个人博客"
+author: 江盛
+email: shiysh23@gmail.com
+description: "你好，我是江盛，2025级SYSU本科生CS在读，AI infra初学者"
 # subtitle: "少女祈祷中..."
 subtitle:
   typing:
-    enable: false
+    enable: true
     strings:
+      - "我和我所爱的人"
+      - "如箭离弦，永不回头"
       # - Sentence 1
       # - Sentence 2
       # - Sentence 3
@@ -51,9 +53,9 @@ subtitle:
     showCursor: true            # 是否显示闪烁的字符
     cursorChar: "|"             # 字符
     smartBackspace: false       # 智能退格，只删除不同的部分
-  text: "少女祈祷中..."        # 当 typing.enable = false 时使用
+  text: "我热爱着这个世界"        # 当 typing.enable = false 时使用
 
-banner: "images/banner.webp"
+banner: "images/banner.jpg"
 # You can also write it in the form of the following url
 # banner: "https://example.com"
 
@@ -73,7 +75,8 @@ avatar: "avatar.jpg"
 # Control the display of the post cover
 # If not set, the banner image will be displayed by default
 # Its priority is lower than the cover in the Front-matter
-cover: # https://example.com / false / rgb(255,117,117)
+cover: "images/cover2.jpg"
+# https://example.com / false / rgb(255,117,117)
 
 # Control the display of the post toc
 # Its priority is lower than the toc in the Front-matter
@@ -125,7 +128,7 @@ sidebar:
 
 social:
   # email: mailto:xxx@gmail.com
-  # github: https://github.com/yourname
+  github: https://github.com/SYS-Jiang
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
   # bluesky: https://bsky.app/profile/yourname
@@ -138,7 +141,7 @@ social:
   # flickr: https://www.flickr.com/photos/yourname
   # dribbble: https://dribbble.com/yourname
   # behance: https://www.behance.net/yourname
-  # bilibili: https://space.bilibili.com/yourname
+  bilibili: https://space.bilibili.com/1195846816
   # weibo: https://weibo.com/yourname
   # zhihu: https://www.zhihu.com/people/yourname
   # reddit: https://www.reddit.com/user/yourname
@@ -151,13 +154,13 @@ social:
   # discord: https://discordapp.com/users/yourname
   # steam: https://steamcommunity.com/id/yourname
   # weixin: 
-  # qq:
+  # qq: 1603308159
   # tiktok:
 
 widgets:
   - category
   - tag
-  - tagcloud
+  #- tagcloud
   - recent_posts
 
 # Widget behavior
