@@ -14,9 +14,9 @@ menu:
   - name: about
     url: "about"
     icon:
-  - name: friend
-    url: "friend"
-    icon:
+  # - name: friend
+  #   url: "friend"
+  #   icon:
 
 # friend links
 friends:
